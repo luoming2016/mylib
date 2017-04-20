@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Tina-TI
-Exec=env WINEPREFIX="/home/lm/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/lm/.wine/dosdevices/c:/users/Public/桌面/Tina-TI.lnk
-Type=Application
-StartupNotify=true
-Path=/home/lm/.wine/dosdevices/c:/Program Files (x86)/DesignSoft/Tina 9 - TI
-Icon=3D55_tina.0
